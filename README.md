@@ -18,6 +18,6 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="80" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="80" style="vertical-align:top; margin:4px">
 </p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreCogac&hide=php&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fedis&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreCogac&hide=php&theme=tokyonight" />
 </a>
