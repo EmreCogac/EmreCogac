@@ -1,24 +1,29 @@
-## ✉️ Find me on:
-<p align="center">
- 
- <a href="https://www.linkedin.com/in/emre-aktas-9176a31a6/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px;"></a>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=R%C4%B1dvan%20Gonca&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+
+<a href="https://ridvangnc.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=40&lines=Yaz%C4%B1l%C4%B1m+M%C3%BChendisi+%26+Veri+Bilimci;Makine+%C3%96%C4%9Frenmesi+%7C+RAG+%7C+Zaman+Serileri;Full-Stack+Web+%26+Masa%C3%BCst%C3%BC+Geli%C5%9Ftirici" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolyo-ridvangnc.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ridvangnc.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-RidvanGNC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidvanGNC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rıdvan_Gonca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridvangonca/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ Teknolojiler ve Araçlar
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,fastapi,nodejs,ts,js,react,tailwind,html,css,docker,git,github,linux,postman,vscode&theme=dark&perline=9" alt="Teknolojiler ve Araçlar" />
 </p>
 
-<br />
-
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="80" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang" height="80" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="80" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="80" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="80" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="dotnet" height="80" style="vertical-align:top; margin:4px">
-</p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreCogac&hide_progress=false&theme=dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreCogac&hide_progress=false&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=EmreCogac&theme=dark&show_icons=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=EmreCogac&theme=dark&show_icons=true" />
-</a>
+</div>
