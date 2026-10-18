@@ -9,6 +9,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolyo-emremta.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emremta.com/)
+[![Nizip AI](https://img.shields.io/badge/Portfolyo-nizipai.com.tr-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nizipai.com.tr/hakkimizda)
 [![GitHub](https://img.shields.io/badge/GitHub-EmreCogac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmreCogac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-M._Emre_Akta%C5%9F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-emre-aktas/)
 
