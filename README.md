@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=M.%20Emre%20Akta%C5%9F&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-<a href="https://emremta.com">
+<a href="https://www.nizipai.com.tr/hakkimizda">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=700&height=40&lines=Yapay+Zeka+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Dok%C3%BCman+Zek%C3%A2s%C4%B1+%26+OCR+%7C+RAG+%7C+Bilgi+Grafikleri;Full-Stack%3A+Go+%C2%B7+.NET+%C2%B7+Python+%C2%B7+React" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolyo-emremta.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emremta.com/)
 [![Nizip AI](https://img.shields.io/badge/Portfolyo-nizipai.com.tr-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nizipai.com.tr/hakkimizda)
 [![GitHub](https://img.shields.io/badge/GitHub-EmreCogac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmreCogac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-M._Emre_Akta%C5%9F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-emre-aktas/)
