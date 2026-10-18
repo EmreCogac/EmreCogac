@@ -16,15 +16,15 @@
 
 ---
 
-### 👋 Hakkımda
+### Hakkımda
 
-Yapay zeka yazılım geliştiricisiyim. Doküman zekâsı sistemleri (OCR hatları), RAG ve bilgi grafiği mimarileri üzerine çalışıyor, bunları üretime hazır full-stack uygulamalara dönüştürüyorum. Bilgisayar mühendisliği geçmişimle backend ve frontend arasında rahatça geçiş yapabiliyorum.
+Bilgisayar mühendisiyim ve yapay zeka yazılım geliştiricisi olarak çalışıyorum. Odağım doküman işleme (OCR), RAG ve bilgi grafiği sistemleri. Bu sistemlerin backend ve arayüz tarafını da kendim geliştiriyorum.
 
-- 🔭 Üzerinde çalıştığım alanlar: OCR hatları, RAG, GraphRAG, bilgi grafikleri
-- ⚙️ Backend: Go (Gin, GORM), .NET (ABP), Python (FastAPI)
-- 🎨 Frontend: React, TypeScript
-- 📱 Mobil: Kotlin Multiplatform
-- 📍 Gaziantep / Nizip, Türkiye
+- **Yapay zeka:** OCR, RAG, GraphRAG
+- **Backend:** Go (Gin, GORM), .NET (ABP), Python (FastAPI)
+- **Frontend:** React, TypeScript
+- **Mobil:** Kotlin Multiplatform
+- **Konum:** Gaziantep / Nizip, Türkiye
 
 ---
 
