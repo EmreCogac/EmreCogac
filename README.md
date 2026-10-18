@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=M.%20Emre%20Akta%C5%9F&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <a href="https://www.nizipai.com.tr/hakkimizda">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=700&height=40&lines=Yapay+Zeka+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Dok%C3%BCman+Zek%C3%A2s%C4%B1+%26+OCR+%7C+RAG+%7C+Bilgi+Grafikleri;Full-Stack%3A+Go+%C2%B7+.NET+%C2%B7+Python+%C2%B7+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=700&height=40&lines=Yapay+Zeka+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Dok%C3%BCman+Zek%C3%A2s%C4%B1+%26+OCR+%7C+RAG+%7C+Bilgi+RAG;Full-Stack%3A+Go+%C2%B7+.NET+%C2%B7+Python+%C2%B7+React" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -18,7 +18,7 @@
 
 ### Hakkımda
 
-Bilgisayar mühendisiyim ve yapay zeka yazılım geliştiricisi olarak çalışıyorum. Odağım doküman işleme (OCR), RAG ve bilgi grafiği sistemleri. Bu sistemlerin backend ve arayüz tarafını da kendim geliştiriyorum.
+Bilgisayar mühendisiyim ve yapay zeka yazılım geliştiricisi olarak çalışıyorum. Odağım doküman işleme (OCR), RAG ve bilgi RAG sistemleri. Bu sistemlerin backend ve arayüz tarafını da kendim geliştiriyorum.
 
 - **Yapay zeka:** OCR, RAG, GraphRAG
 - **Backend:** Go (Gin, GORM), .NET (ABP), Python (FastAPI)
