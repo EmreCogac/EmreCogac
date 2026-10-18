@@ -23,6 +23,7 @@ Yapay zeka yazılım geliştiricisiyim. Doküman zekâsı sistemleri (OCR hatlar
 - 🔭 Üzerinde çalıştığım alanlar: OCR hatları, RAG, GraphRAG, bilgi grafikleri
 - ⚙️ Backend: Go (Gin, GORM), .NET (ABP), Python (FastAPI)
 - 🎨 Frontend: React, TypeScript
+- 📱 Mobil: Kotlin Multiplatform
 - 📍 Gaziantep / Nizip, Türkiye
 
 ---
@@ -34,7 +35,7 @@ Yapay zeka yazılım geliştiricisiyim. Doküman zekâsı sistemleri (OCR hatlar
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,dotnet,cs,python,fastapi,nodejs,ts,js,react,tailwind,html,css,postgres,docker,git,github,linux,postman,vscode&theme=dark&perline=10" alt="Teknolojiler ve Araçlar" />
+  <img src="https://skillicons.dev/icons?i=go,dotnet,cs,python,fastapi,kotlin,nodejs,ts,js,react,tailwind,html,css,postgres,docker,git,github,linux,postman,vscode&theme=dark&perline=10" alt="Teknolojiler ve Araçlar" />
 </p>
 
 </div>
